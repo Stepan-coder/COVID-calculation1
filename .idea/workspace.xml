@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ca751ce-fe91-4269-8f76-f251e72c67bc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/daily_data/05-16-2020.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Top Confirmed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Top Deaths.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Top Recovered.png" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/daily_data/05-17-2020.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Top Confirmed.png" beforeDir="false" afterPath="$PROJECT_DIR$/Top Confirmed.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Top Deaths.png" beforeDir="false" afterPath="$PROJECT_DIR$/Top Deaths.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Top Recovered.png" beforeDir="false" afterPath="$PROJECT_DIR$/Top Recovered.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Afghanistan.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Afghanistan.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Albania.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Albania.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Algeria.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Algeria.png" afterDir="false" />
@@ -222,9 +221,6 @@
       <change beforePath="$PROJECT_DIR$/countries/TheGambia.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/TheGambia.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Timor-Leste.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Timor-Leste.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Togo.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Togo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/countries/Top Confirmed.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Top Confirmed.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/countries/Top Deaths.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Top Deaths.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/countries/Top Recovered.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Top Recovered.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/TrinidadandTobago.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/TrinidadandTobago.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Tunisia.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Tunisia.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Turkey.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Turkey.png" afterDir="false" />
