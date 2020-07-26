@@ -20,89 +20,174 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ca751ce-fe91-4269-8f76-f251e72c67bc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Top Confirmed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Top Deaths.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Top Recovered.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Afghanistan.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Afghanistan.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Albania.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Albania.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Algeria.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Algeria.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Andorra.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Andorra.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Angola.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Angola.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/AntiguaandBarbuda.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/AntiguaandBarbuda.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Argentina.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Argentina.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Armenia.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Armenia.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Aruba.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Aruba.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Australia.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Australia.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Austria.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Austria.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Azerbaijan.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Azerbaijan.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Bahamas,The.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Bahamas,The.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Bahamas.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Bahamas.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Bahrain.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Bahrain.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Bangladesh.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Bangladesh.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Barbados.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Barbados.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Belarus.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Belarus.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Belgium.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Belgium.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Belize.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Belize.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Benin.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Benin.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Bhutan.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Bhutan.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Bolivia.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Bolivia.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/BosniaandHerzegovina.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/BosniaandHerzegovina.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Botswana.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Botswana.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Brazil.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Brazil.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Brunei.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Brunei.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Bulgaria.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Bulgaria.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/BurkinaFaso.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/BurkinaFaso.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Burma.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Burma.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Burundi.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Burundi.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/CaboVerde.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/CaboVerde.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Cambodia.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Cambodia.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Cameroon.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Cameroon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Canada.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Canada.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/CapeVerde.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/CapeVerde.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/CaymanIslands.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/CaymanIslands.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/CentralAfricanRepublic.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/CentralAfricanRepublic.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Chad.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Chad.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/ChannelIslands.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/ChannelIslands.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Chile.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Chile.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/China.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/China.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Colombia.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Colombia.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Comoros.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Comoros.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Congo(Brazzaville).png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Congo(Brazzaville).png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Congo(Kinshasa).png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Congo(Kinshasa).png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/CostaRica.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/CostaRica.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Coted'Ivoire.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Coted'Ivoire.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Croatia.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Croatia.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/CruiseShip.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/CruiseShip.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Cuba.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Cuba.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Curacao.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Curacao.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Cyprus.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Cyprus.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/CzechRepublic.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/CzechRepublic.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Czechia.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Czechia.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Denmark.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Denmark.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/DiamondPrincess.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/DiamondPrincess.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Djibouti.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Djibouti.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Dominica.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Dominica.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/DominicanRepublic.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/DominicanRepublic.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/EastTimor.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/EastTimor.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Ecuador.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Ecuador.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Egypt.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Egypt.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/ElSalvador.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/ElSalvador.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/EquatorialGuinea.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/EquatorialGuinea.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Eritrea.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Eritrea.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Estonia.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Estonia.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Eswatini.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Eswatini.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Ethiopia.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Ethiopia.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/FaroeIslands.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/FaroeIslands.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Fiji.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Fiji.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Finland.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Finland.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/France.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/France.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/FrenchGuiana.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/FrenchGuiana.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Gabon.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Gabon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Gambia,The.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Gambia,The.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Gambia.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Gambia.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Georgia.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Georgia.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Germany.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Germany.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Ghana.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Ghana.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Gibraltar.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Gibraltar.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Greece.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Greece.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Greenland.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Greenland.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Grenada.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Grenada.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Guadeloupe.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Guadeloupe.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Guam.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Guam.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Guatemala.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Guatemala.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Guernsey.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Guernsey.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Guinea-Bissau.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Guinea-Bissau.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Guinea.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Guinea.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Guyana.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Guyana.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Haiti.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Haiti.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/HolySee.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/HolySee.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Honduras.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Honduras.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/HongKong.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/HongKong.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/HongKongSAR.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/HongKongSAR.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Hungary.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Hungary.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Iceland.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Iceland.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/India.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/India.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Indonesia.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Indonesia.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Iran(IslamicRepublicof).png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Iran(IslamicRepublicof).png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Iran.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Iran.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Iraq.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Iraq.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Ireland.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Ireland.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Israel.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Israel.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Italy.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Italy.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/IvoryCoast.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/IvoryCoast.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Jamaica.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Jamaica.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Japan.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Japan.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Jersey.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Jersey.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Jordan.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Jordan.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Kazakhstan.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Kazakhstan.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Kenya.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Kenya.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Korea,South.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Korea,South.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Kosovo.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Kosovo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Kuwait.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Kuwait.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Kyrgyzstan.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Kyrgyzstan.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Laos.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Laos.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Latvia.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Latvia.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Lebanon.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Lebanon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Lesotho.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Lesotho.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Liberia.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Liberia.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Libya.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Libya.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Liechtenstein.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Liechtenstein.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Lithuania.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Lithuania.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Luxembourg.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Luxembourg.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/MSZaandam.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/MSZaandam.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/MacaoSAR.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/MacaoSAR.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Macau.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Macau.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Madagascar.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Madagascar.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/MainlandChina.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/MainlandChina.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Malawi.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Malawi.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Malaysia.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Malaysia.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Maldives.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Maldives.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Mali.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Mali.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Malta.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Malta.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Martinique.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Martinique.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Mauritania.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Mauritania.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Mauritius.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Mauritius.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Mayotte.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Mayotte.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Mexico.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Mexico.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Moldova.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Moldova.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Monaco.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Monaco.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Mongolia.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Mongolia.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Montenegro.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Montenegro.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Morocco.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Morocco.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Mozambique.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Mozambique.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Namibia.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Namibia.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Nepal.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Nepal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Netherlands.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Netherlands.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/NewZealand.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/NewZealand.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Nicaragua.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Nicaragua.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Niger.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Niger.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Nigeria.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Nigeria.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/NorthIreland.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/NorthIreland.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/NorthMacedonia.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/NorthMacedonia.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Norway.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Norway.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Oman.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Oman.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Others.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Others.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Pakistan.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Pakistan.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Palestine.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Palestine.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Panama.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Panama.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/PapuaNewGuinea.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/PapuaNewGuinea.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Paraguay.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Paraguay.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Peru.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Peru.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Philippines.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Philippines.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Poland.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Poland.png" afterDir="false" />
@@ -111,41 +196,70 @@
       <change beforePath="$PROJECT_DIR$/countries/Qatar.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Qatar.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/RepublicofIreland.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/RepublicofIreland.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/RepublicofKorea.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/RepublicofKorea.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/RepublicofMoldova.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/RepublicofMoldova.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/RepublicoftheCongo.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/RepublicoftheCongo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Reunion.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Reunion.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Romania.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Romania.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Russia.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Russia.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/RussianFederation.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/RussianFederation.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Rwanda.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Rwanda.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/SaintBarthelemy.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/SaintBarthelemy.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/SaintKittsandNevis.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/SaintKittsandNevis.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/SaintLucia.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/SaintLucia.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/SaintMartin.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/SaintMartin.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/SaintVincentandtheGrenadines.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/SaintVincentandtheGrenadines.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/SanMarino.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/SanMarino.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/SaoTomeandPrincipe.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/SaoTomeandPrincipe.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/SaudiArabia.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/SaudiArabia.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Senegal.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Senegal.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Serbia.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Serbia.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Seychelles.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Seychelles.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/SierraLeone.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/SierraLeone.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Singapore.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Singapore.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Slovakia.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Slovakia.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Slovenia.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Slovenia.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Somalia.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Somalia.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/SouthAfrica.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/SouthAfrica.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/SouthKorea.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/SouthKorea.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/SouthSudan.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/SouthSudan.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Spain.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Spain.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/SriLanka.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/SriLanka.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/St.Martin.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/St.Martin.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Sudan.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Sudan.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Suriname.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Suriname.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Sweden.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Sweden.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Switzerland.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Switzerland.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Syria.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Syria.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Taipeiandenvirons.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Taipeiandenvirons.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Taiwan.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Taiwan.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Tajikistan.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Tajikistan.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Tanzania.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Tanzania.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Thailand.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Thailand.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/TheBahamas.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/TheBahamas.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/TheGambia.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/TheGambia.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Timor-Leste.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Timor-Leste.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Togo.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Togo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/TrinidadandTobago.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/TrinidadandTobago.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Tunisia.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Tunisia.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Turkey.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Turkey.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/UK.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/UK.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/US.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/US.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Uganda.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Uganda.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Ukraine.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Ukraine.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/UnitedArabEmirates.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/UnitedArabEmirates.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/UnitedKingdom.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/UnitedKingdom.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Uruguay.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Uruguay.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Uzbekistan.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Uzbekistan.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/VaticanCity.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/VaticanCity.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Venezuela.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Venezuela.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Vietnam.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Vietnam.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/WestBankandGaza.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/WestBankandGaza.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/WesternSahara.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/WesternSahara.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/countries/Yemen.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Yemen.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Zambia.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Zambia.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/Zimbabwe.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/Zimbabwe.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/all.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/all.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/countries/occupiedPalestinianterritory.png" beforeDir="false" afterPath="$PROJECT_DIR$/countries/occupiedPalestinianterritory.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -234,26 +348,26 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1259" height="176" key="GridCell.Tab.0.bottom" timestamp="1595486395231">
+    <state width="1259" height="176" key="GridCell.Tab.0.bottom" timestamp="1595772702525">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="1259" height="176" key="GridCell.Tab.0.bottom/0.0.1280.720/1920.0.2560.1080@0.0.1280.720" timestamp="1593499362531" />
-    <state width="1259" height="176" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1595486395231" />
-    <state width="1259" height="176" key="GridCell.Tab.0.center" timestamp="1595486395231">
+    <state width="1259" height="176" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1595772702525" />
+    <state width="1259" height="176" key="GridCell.Tab.0.center" timestamp="1595772702525">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="1259" height="176" key="GridCell.Tab.0.center/0.0.1280.720/1920.0.2560.1080@0.0.1280.720" timestamp="1593499362531" />
-    <state width="1259" height="176" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1595486395231" />
-    <state width="1259" height="176" key="GridCell.Tab.0.left" timestamp="1595486395231">
+    <state width="1259" height="176" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1595772702525" />
+    <state width="1259" height="176" key="GridCell.Tab.0.left" timestamp="1595772702525">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="1259" height="176" key="GridCell.Tab.0.left/0.0.1280.720/1920.0.2560.1080@0.0.1280.720" timestamp="1593499362531" />
-    <state width="1259" height="176" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1595486395231" />
-    <state width="1259" height="176" key="GridCell.Tab.0.right" timestamp="1595486395231">
+    <state width="1259" height="176" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1595772702525" />
+    <state width="1259" height="176" key="GridCell.Tab.0.right" timestamp="1595772702525">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="1259" height="176" key="GridCell.Tab.0.right/0.0.1280.720/1920.0.2560.1080@0.0.1280.720" timestamp="1593499362531" />
-    <state width="1259" height="176" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1595486395231" />
+    <state width="1259" height="176" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1595772702525" />
     <state x="450" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594275483698">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
