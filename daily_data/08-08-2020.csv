@@ -1,4 +1,5 @@
-FIPS,Admin2,Province/State,Country/Region,Last Update,Lat,Long_,Confirmed,Deaths,Recovered,Active,Combined_Key,Incidence_Rate,Case-Fatality_Ratio45001,Abbeville,South Carolina,US,2020-08-09 04:34:54,34.22333378,-82.46170658,325,8,0,317,"Abbeville, South Carolina, US",1325.0703306560115,2.4615384615384617
+FIPS,Admin2,Province/State,Country/Region,Last Update,Lat,Long_,Confirmed,Deaths,Recovered,Active,Combined_Key,Incidence_Rate,Case-Fatality_Ratio
+45001,Abbeville,South Carolina,US,2020-08-09 04:34:54,34.22333378,-82.46170658,325,8,0,317,"Abbeville, South Carolina, US",1325.0703306560115,2.4615384615384617
 22001,Acadia,Louisiana,US,2020-08-09 04:34:54,30.295064899999996,-92.41419698,2570,79,0,2491,"Acadia, Louisiana, US",4142.154887581594,3.0739299610894943
 51001,Accomack,Virginia,US,2020-08-09 04:34:54,37.76707161,-75.63234615,1095,16,0,1079,"Accomack, Virginia, US",3388.4144077237293,1.461187214611872
 16001,Ada,Idaho,US,2020-08-09 04:34:54,43.4526575,-116.24155159999998,8932,81,0,8851,"Ada, Idaho, US",1854.7012274002414,0.9068517689207345
